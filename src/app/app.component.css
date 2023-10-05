@@ -1,0 +1,7 @@
+ul{
+    display: inline-flex;
+}
+li{
+    margin:10px;
+    list-style-type: none;
+}
